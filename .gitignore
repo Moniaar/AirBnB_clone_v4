@@ -5,6 +5,7 @@ __pycache__/
 # Python virtual environments
 venv/
 env/
+airbnb/
 
 # macOS system files
 .DS_Store
